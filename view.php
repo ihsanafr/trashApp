@@ -205,6 +205,7 @@
 			.kembali{
 				width: 49vw;
 			}
+			/*  */
 
 
 		}
